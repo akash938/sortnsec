@@ -1,0 +1,499 @@
+[
+  {
+    "id": "arctic_white_wolf",
+    "name": "arctic_white_wolf.jpg",
+    "category": "Animals",
+    "tier": "signature",
+    "path": "/samples/arctic_white_wolf.jpg"
+  },
+  {
+    "id": "artisan_wagyu_steak",
+    "name": "artisan_wagyu_steak.jpg",
+    "category": "Food",
+    "tier": "signature",
+    "path": "/samples/artisan_wagyu_steak.jpg"
+  },
+  {
+    "id": "avant_garde_techwear",
+    "name": "avant_garde_techwear.jpg",
+    "category": "Streetwear",
+    "tier": "signature",
+    "path": "/samples/avant_garde_techwear.jpg"
+  },
+  {
+    "id": "bioluminescent_beach_waves",
+    "name": "bioluminescent_beach_waves.jpg",
+    "category": "Nature",
+    "tier": "signature",
+    "path": "/samples/bioluminescent_beach_waves.jpg"
+  },
+  {
+    "id": "black_panther_darkness",
+    "name": "black_panther_darkness.jpg",
+    "category": "Animals",
+    "tier": "signature",
+    "path": "/samples/black_panther_darkness.jpg"
+  },
+  {
+    "id": "blade_runner_neo_tokyo",
+    "name": "blade_runner_neo_tokyo.jpg",
+    "category": "Cyberpunk",
+    "tier": "signature",
+    "path": "/samples/blade_runner_neo_tokyo.jpg"
+  },
+  {
+    "id": "bugatti_chiron_supercar",
+    "name": "bugatti_chiron_supercar.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/bugatti_chiron_supercar.jpg"
+  },
+  {
+    "id": "calatrava_sculptural_bridge",
+    "name": "calatrava_sculptural_bridge.jpg",
+    "category": "Architecture",
+    "tier": "signature",
+    "path": "/samples/calatrava_sculptural_bridge.jpg"
+  },
+  {
+    "id": "ferrari_laferrari_exotic",
+    "name": "ferrari_laferrari_exotic.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/ferrari_laferrari_exotic.jpg"
+  },
+  {
+    "id": "haute_patisserie_dessert",
+    "name": "haute_patisserie_dessert.jpg",
+    "category": "Food",
+    "tier": "signature",
+    "path": "/samples/haute_patisserie_dessert.jpg"
+  },
+  {
+    "id": "koenigsegg_agera_carbon",
+    "name": "koenigsegg_agera_carbon.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/koenigsegg_agera_carbon.jpg"
+  },
+  {
+    "id": "koenigsegg_agera_final_edition",
+    "name": "koenigsegg_agera_final_edition.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/koenigsegg_agera_final_edition.jpg"
+  },
+  {
+    "id": "koenigsegg_agera_rs_hypercar",
+    "name": "koenigsegg_agera_rs_hypercar.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/koenigsegg_agera_rs_hypercar.jpg"
+  },
+  {
+    "id": "koenigsegg_jesko_gims_hypercar",
+    "name": "koenigsegg_jesko_gims_hypercar.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/koenigsegg_jesko_gims_hypercar.jpg"
+  },
+  {
+    "id": "koenigsegg_jesko_hypercar",
+    "name": "koenigsegg_jesko_hypercar.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/koenigsegg_jesko_hypercar.jpg"
+  },
+  {
+    "id": "koenigsegg_jesko_zurich_exotic",
+    "name": "koenigsegg_jesko_zurich_exotic.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/koenigsegg_jesko_zurich_exotic.jpg"
+  },
+  {
+    "id": "luxury_caviar_seafood",
+    "name": "luxury_caviar_seafood.jpg",
+    "category": "Food",
+    "tier": "signature",
+    "path": "/samples/luxury_caviar_seafood.jpg"
+  },
+  {
+    "id": "mclaren_p1_hypercar",
+    "name": "mclaren_p1_hypercar.jpg",
+    "category": "Cars",
+    "tier": "signature",
+    "path": "/samples/mclaren_p1_hypercar.jpg"
+  },
+  {
+    "id": "michelin_star_gastronomy",
+    "name": "michelin_star_gastronomy.jpg",
+    "category": "Food",
+    "tier": "signature",
+    "path": "/samples/michelin_star_gastronomy.jpg"
+  },
+  {
+    "id": "minimalist_cantilever_cliff_penthouse",
+    "name": "minimalist_cantilever_cliff_penthouse.jpg",
+    "category": "Interior",
+    "tier": "signature",
+    "path": "/samples/minimalist_cantilever_cliff_penthouse.jpg"
+  },
+  {
+    "id": "monaco_superyacht_mediterranean",
+    "name": "monaco_superyacht_mediterranean.jpg",
+    "category": "Luxury",
+    "tier": "signature",
+    "path": "/samples/monaco_superyacht_mediterranean.jpg"
+  },
+  {
+    "id": "monolithic_brutalist_temple",
+    "name": "monolithic_brutalist_temple.jpg",
+    "category": "Brutalist",
+    "tier": "signature",
+    "path": "/samples/monolithic_brutalist_temple.jpg"
+  },
+  {
+    "id": "moody_rembrandt_portrait",
+    "name": "moody_rembrandt_portrait.jpg",
+    "category": "Portrait",
+    "tier": "signature",
+    "path": "/samples/moody_rembrandt_portrait.jpg"
+  },
+  {
+    "id": "patagonia_jagged_peaks",
+    "name": "patagonia_jagged_peaks.jpg",
+    "category": "Nature",
+    "tier": "signature",
+    "path": "/samples/patagonia_jagged_peaks.jpg"
+  },
+  {
+    "id": "regal_snow_leopard",
+    "name": "regal_snow_leopard.jpg",
+    "category": "Animals",
+    "tier": "signature",
+    "path": "/samples/regal_snow_leopard.jpg"
+  },
+  {
+    "id": "starry_aurora_glacier",
+    "name": "starry_aurora_glacier.jpg",
+    "category": "Sunset/Sky",
+    "tier": "signature",
+    "path": "/samples/starry_aurora_glacier.jpg"
+  },
+  {
+    "id": "swiss_tourbillon_horology",
+    "name": "swiss_tourbillon_horology.jpg",
+    "category": "Product",
+    "tier": "signature",
+    "path": "/samples/swiss_tourbillon_horology.jpg"
+  },
+  {
+    "id": "tadao_ando_concrete_sanctuary",
+    "name": "tadao_ando_concrete_sanctuary.jpg",
+    "category": "Architecture",
+    "tier": "signature",
+    "path": "/samples/tadao_ando_concrete_sanctuary.jpg"
+  },
+  {
+    "id": "vogue_couture_editorial",
+    "name": "vogue_couture_editorial.jpg",
+    "category": "Fashion",
+    "tier": "signature",
+    "path": "/samples/vogue_couture_editorial.jpg"
+  },
+  {
+    "id": "volcanic_cosmic_sunset",
+    "name": "volcanic_cosmic_sunset.jpg",
+    "category": "Sunset/Sky",
+    "tier": "signature",
+    "path": "/samples/volcanic_cosmic_sunset.jpg"
+  },
+  {
+    "id": "zaha_hadid_parametric_architecture",
+    "name": "zaha_hadid_parametric_architecture.jpg",
+    "category": "Architecture",
+    "tier": "signature",
+    "path": "/samples/zaha_hadid_parametric_architecture.jpg"
+  },
+  {
+    "id": "aerial_highway_roundabout",
+    "name": "aerial_highway_roundabout.jpg",
+    "category": "Cars",
+    "tier": "curated",
+    "path": "/samples/aerial_highway_roundabout.jpg"
+  },
+  {
+    "id": "artisan_perfume_bottle",
+    "name": "artisan_perfume_bottle.jpg",
+    "category": "Product",
+    "tier": "curated",
+    "path": "/samples/artisan_perfume_bottle.jpg"
+  },
+  {
+    "id": "bald_eagle_flight",
+    "name": "bald_eagle_flight.jpg",
+    "category": "Animals",
+    "tier": "curated",
+    "path": "/samples/bald_eagle_flight.jpg"
+  },
+  {
+    "id": "brutalist_facade",
+    "name": "brutalist_facade.jpg",
+    "category": "Brutalist",
+    "tier": "curated",
+    "path": "/samples/brutalist_facade.jpg"
+  },
+  {
+    "id": "candid_smile_portrait",
+    "name": "candid_smile_portrait.jpg",
+    "category": "Portrait",
+    "tier": "curated",
+    "path": "/samples/candid_smile_portrait.jpg"
+  },
+  {
+    "id": "candlelit_desk_study",
+    "name": "candlelit_desk_study.jpg",
+    "category": "Dark Academia",
+    "tier": "curated",
+    "path": "/samples/candlelit_desk_study.jpg"
+  },
+  {
+    "id": "ceramic_vase_still_life",
+    "name": "ceramic_vase_still_life.jpg",
+    "category": "Minimalist",
+    "tier": "curated",
+    "path": "/samples/ceramic_vase_still_life.jpg"
+  },
+  {
+    "id": "cinematic_portrait_woman",
+    "name": "cinematic_portrait_woman.jpg",
+    "category": "Portrait",
+    "tier": "curated",
+    "path": "/samples/cinematic_portrait_woman.jpg"
+  },
+  {
+    "id": "city_highway_traffic",
+    "name": "city_highway_traffic.jpg",
+    "category": "Cars",
+    "tier": "curated",
+    "path": "/samples/city_highway_traffic.jpg"
+  },
+  {
+    "id": "dolomites_mountain_lake",
+    "name": "dolomites_mountain_lake.jpg",
+    "category": "Nature",
+    "tier": "curated",
+    "path": "/samples/dolomites_mountain_lake.jpg"
+  },
+  {
+    "id": "fresh_margherita_pizza",
+    "name": "fresh_margherita_pizza.jpg",
+    "category": "Food",
+    "tier": "curated",
+    "path": "/samples/fresh_margherita_pizza.jpg"
+  },
+  {
+    "id": "geometric_skyscraper",
+    "name": "geometric_skyscraper.jpg",
+    "category": "Architecture",
+    "tier": "curated",
+    "path": "/samples/geometric_skyscraper.jpg"
+  },
+  {
+    "id": "golden_retriever_dog",
+    "name": "golden_retriever_dog.jpg",
+    "category": "Animals",
+    "tier": "curated",
+    "path": "/samples/golden_retriever_dog.jpg"
+  },
+  {
+    "id": "golden_sunset_clouds",
+    "name": "golden_sunset_clouds.jpg",
+    "category": "Sunset/Sky",
+    "tier": "curated",
+    "path": "/samples/golden_sunset_clouds.jpg"
+  },
+  {
+    "id": "gourmet_beef_burger",
+    "name": "gourmet_beef_burger.jpg",
+    "category": "Food",
+    "tier": "curated",
+    "path": "/samples/gourmet_beef_burger.jpg"
+  },
+  {
+    "id": "high_fashion_model",
+    "name": "high_fashion_model.jpg",
+    "category": "Fashion",
+    "tier": "curated",
+    "path": "/samples/high_fashion_model.jpg"
+  },
+  {
+    "id": "leather_jacket_styling",
+    "name": "leather_jacket_styling.jpg",
+    "category": "Streetwear",
+    "tier": "curated",
+    "path": "/samples/leather_jacket_styling.jpg"
+  },
+  {
+    "id": "lion_safari_portrait",
+    "name": "lion_safari_portrait.jpg",
+    "category": "Animals",
+    "tier": "curated",
+    "path": "/samples/lion_safari_portrait.jpg"
+  },
+  {
+    "id": "luxury_wristwatch",
+    "name": "luxury_wristwatch.jpg",
+    "category": "Product",
+    "tier": "curated",
+    "path": "/samples/luxury_wristwatch.jpg"
+  },
+  {
+    "id": "marble_island_kitchen",
+    "name": "marble_island_kitchen.jpg",
+    "category": "Interior",
+    "tier": "curated",
+    "path": "/samples/marble_island_kitchen.jpg"
+  },
+  {
+    "id": "minimalist_spiral_stairs",
+    "name": "minimalist_spiral_stairs.jpg",
+    "category": "Architecture",
+    "tier": "curated",
+    "path": "/samples/minimalist_spiral_stairs.jpg"
+  },
+  {
+    "id": "misty_pine_forest",
+    "name": "misty_pine_forest.jpg",
+    "category": "Nature",
+    "tier": "curated",
+    "path": "/samples/misty_pine_forest.jpg"
+  },
+  {
+    "id": "natural_light_portrait",
+    "name": "natural_light_portrait.jpg",
+    "category": "Portrait",
+    "tier": "curated",
+    "path": "/samples/natural_light_portrait.jpg"
+  },
+  {
+    "id": "neon_rainy_tokyo",
+    "name": "neon_rainy_tokyo.jpg",
+    "category": "Cyberpunk",
+    "tier": "curated",
+    "path": "/samples/neon_rainy_tokyo.jpg"
+  },
+  {
+    "id": "northern_lights_aurora",
+    "name": "northern_lights_aurora.jpg",
+    "category": "Sunset/Sky",
+    "tier": "curated",
+    "path": "/samples/northern_lights_aurora.jpg"
+  },
+  {
+    "id": "porsche_sports_car",
+    "name": "porsche_sports_car.jpg",
+    "category": "Cars",
+    "tier": "curated",
+    "path": "/samples/porsche_sports_car.jpg"
+  },
+  {
+    "id": "portrait_cat_whiskers",
+    "name": "portrait_cat_whiskers.jpg",
+    "category": "Animals",
+    "tier": "curated",
+    "path": "/samples/portrait_cat_whiskers.jpg"
+  },
+  {
+    "id": "sahara_golden_dunes",
+    "name": "sahara_golden_dunes.jpg",
+    "category": "Nature",
+    "tier": "curated",
+    "path": "/samples/sahara_golden_dunes.jpg"
+  },
+  {
+    "id": "scandinavian_armchair_home",
+    "name": "scandinavian_armchair_home.jpg",
+    "category": "Interior",
+    "tier": "curated",
+    "path": "/samples/scandinavian_armchair_home.jpg"
+  },
+  {
+    "id": "shinjuku_neon_alley",
+    "name": "shinjuku_neon_alley.jpg",
+    "category": "Cyberpunk",
+    "tier": "curated",
+    "path": "/samples/shinjuku_neon_alley.jpg"
+  },
+  {
+    "id": "specialty_latte_art",
+    "name": "specialty_latte_art.jpg",
+    "category": "Food",
+    "tier": "curated",
+    "path": "/samples/specialty_latte_art.jpg"
+  },
+  {
+    "id": "streetwear_apparel_model",
+    "name": "streetwear_apparel_model.jpg",
+    "category": "Streetwear",
+    "tier": "curated",
+    "path": "/samples/streetwear_apparel_model.jpg"
+  },
+  {
+    "id": "sushi_nigiri_platter",
+    "name": "sushi_nigiri_platter.jpg",
+    "category": "Food",
+    "tier": "curated",
+    "path": "/samples/sushi_nigiri_platter.jpg"
+  },
+  {
+    "id": "suspension_bridge",
+    "name": "suspension_bridge.jpg",
+    "category": "Architecture",
+    "tier": "curated",
+    "path": "/samples/suspension_bridge.jpg"
+  },
+  {
+    "id": "turquoise_beach_water",
+    "name": "turquoise_beach_water.jpg",
+    "category": "Nature",
+    "tier": "curated",
+    "path": "/samples/turquoise_beach_water.jpg"
+  },
+  {
+    "id": "vibrant_evening_twilight",
+    "name": "vibrant_evening_twilight.jpg",
+    "category": "Sunset/Sky",
+    "tier": "curated",
+    "path": "/samples/vibrant_evening_twilight.jpg"
+  },
+  {
+    "id": "vintage_library_cloisters",
+    "name": "vintage_library_cloisters.jpg",
+    "category": "Dark Academia",
+    "tier": "curated",
+    "path": "/samples/vintage_library_cloisters.jpg"
+  },
+  {
+    "id": "vintage_mustang_car",
+    "name": "vintage_mustang_car.jpg",
+    "category": "Cars",
+    "tier": "curated",
+    "path": "/samples/vintage_mustang_car.jpg"
+  },
+  {
+    "id": "wireless_headphones_studio",
+    "name": "wireless_headphones_studio.jpg",
+    "category": "Product",
+    "tier": "curated",
+    "path": "/samples/wireless_headphones_studio.jpg"
+  },
+  {
+    "id": "zen_minimalist_room",
+    "name": "zen_minimalist_room.jpg",
+    "category": "Minimalist",
+    "tier": "curated",
+    "path": "/samples/zen_minimalist_room.jpg"
+  }
+]
